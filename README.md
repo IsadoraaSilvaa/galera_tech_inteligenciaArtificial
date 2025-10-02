@@ -1,0 +1,2 @@
+# galera_tech_inteligenciaArtificial
+galera_tech_inteligência Artificial
